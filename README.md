@@ -161,6 +161,10 @@ __"Как происходит поиск по ключу в map?__
 
 ![image](https://github.com/user-attachments/assets/362df6ee-bf47-46ef-933d-92250dc93607)
 
+__Какому интерфейсу может удовлетворять мапа как структура?__
+
+Ответ: пустой интерфейс
+
 __"Что такое пустой интерфейс?"__
 
 ![image](https://github.com/user-attachments/assets/cc134225-cebf-4d2b-9916-3210a6ccb5aa)
