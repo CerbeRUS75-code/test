@@ -58,6 +58,11 @@ __"Что будет если сложить строки?"__
 
 ![image](https://github.com/user-attachments/assets/9ddf46cd-6cd1-4752-bf60-2b78ccf15c63)
 
+__"Как определить количество символов для строки?" или "Какие есть нюансы при итерации по строке?"__
+
+![image](https://github.com/user-attachments/assets/0c4588e8-0fb0-41a1-9875-2726b3c92fad)
+
+
 
 
 
