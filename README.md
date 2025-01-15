@@ -280,6 +280,129 @@ __"Что будет если писать/читать в/из закрытый
 
 __"Что будет если писать/читать в/из буферизированный channel?"__
 
+![image](https://github.com/user-attachments/assets/d438ff7e-93a2-4722-9590-527f8b2cd124)
+![image](https://github.com/user-attachments/assets/1d461cf4-ff11-4b3c-afe0-e320bde0c61f)
+
+__"Что будет если писать/читать в/из небуферизированный channel?"__
+
+![image](https://github.com/user-attachments/assets/dfecb2fa-b655-49d0-938e-7e6f829d9ba9)
+
+__"Как закрыть channel? Что с ним происходит?"__
+
+![image](https://github.com/user-attachments/assets/099ac79d-e095-449a-a6a4-d8f973263c63)
+
+__"Какие есть инструкции для чтения из channel?"__
+
+![image](https://github.com/user-attachments/assets/05e9d08f-1d1d-48d7-b6b8-ef5862b6cdb8)
+![image](https://github.com/user-attachments/assets/0fec597b-560b-4f1e-9018-082e78c27113)
+![image](https://github.com/user-attachments/assets/6c04ff1e-251c-4ca1-ac44-46a444d60b6f)
+
+__"Как сделать select неблокирующим?"__
+
+![image](https://github.com/user-attachments/assets/075f7b13-e2bb-40c5-a8f1-c03b98baa46b)
+
+__"Какой порядок исполнения операций case в select?"__
+
+![image](https://github.com/user-attachments/assets/686c551d-a5d1-400a-80e4-ee912c3f2dd5)
+
+## Контексты в Golang
+
+__"Что такое context?"__
+
+![image](https://github.com/user-attachments/assets/3a5a745d-ff31-423b-8807-e52bf97ace02)
+
+__"Для чего применяется context?"__
+
+![image](https://github.com/user-attachments/assets/d64a5436-3272-45da-a91e-426d923d5f7a)
+
+__"Чем отличается context.Background от context.TODO?"__
+
+![image](https://github.com/user-attachments/assets/6340d0e1-e51a-4f72-aec6-778a643ec87e)
+
+__"Как передавать значения и вычитывать их из context?"__
+
+![image](https://github.com/user-attachments/assets/b546529d-3a0c-46e3-bdce-62870236b001)
+
+__"Каковы отличия context.WithCancel, context.WithDeadline, context.WithTimeout?"__
+
+![image](https://github.com/user-attachments/assets/af6f81ed-57ef-4d4c-ba86-1cb230f97785)
+
+__"Как обрабатывать отмену context?"__
+
+![image](https://github.com/user-attachments/assets/ee424027-56af-44cc-b396-1ea064db4900)
+
+## Память в Golang
+
+__"Как реализовано хранилище памяти в Go?"__
+
+![image](https://github.com/user-attachments/assets/5cac674b-b4dd-4302-995b-4f960a14107b)
+
+__"Что обозначает * и &?"__
+
+![image](https://github.com/user-attachments/assets/d7fda13b-7048-4f61-bded-f1f4f0a8e1fd)
+
+__"Как происходит передача параметров в функцию?"__
+
+![image](https://github.com/user-attachments/assets/81a234c1-ad40-477c-a430-afcba29c357b)
+![image](https://github.com/user-attachments/assets/5cc16ea2-0ccb-4efd-901b-31c3da167954)
+
+__"Есть ли особенности поведения при передаче map и slice в функцию?"__
+
+![image](https://github.com/user-attachments/assets/fcec56be-68d4-433e-81c6-bd6c20efb34b)
+![image](https://github.com/user-attachments/assets/87e7e6f2-a01f-411d-8648-fe46087664c4)
+
+__"Как функции делятся памятью?"__
+
+![image](https://github.com/user-attachments/assets/42af0908-d53d-479d-8271-eab5fb941f91)
+
+__"Можно ли явно аллоцировать переменную в стэке или куче?"__
+
+![image](https://github.com/user-attachments/assets/b2649ad8-5d64-45c1-a404-c17bb72819ab)
+
+## Сборщик мусора в Golang
+
+__"Что такое сборщик мусора и по какому алгоритму он реализован в Go?"__
+
+![image](https://github.com/user-attachments/assets/505128b6-3b0b-4cbe-88f6-affe571ddf2b)
+
+__"Расскажите про алгоритм mark and sweep"__
+
+![image](https://github.com/user-attachments/assets/3f82b6d5-1f03-4369-80a6-0294efb65915)
+![image](https://github.com/user-attachments/assets/c58b53dd-34d9-4135-a9b5-8b41d3f94a05)
+
+__"Когда запускается сборщик мусора?"__
+
+![image](https://github.com/user-attachments/assets/e0d80d5a-a6d3-40a4-a76e-2a6b653636a4)
+
+__"Каковы ресурсы, которые потребляет сборщик мусора?"__
+
+![image](https://github.com/user-attachments/assets/7989482d-65d1-4dc3-af40-10d61a1b389f)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
