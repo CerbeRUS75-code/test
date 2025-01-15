@@ -139,6 +139,176 @@ __"Как происходит поиск по ключу в map?__
 
 ![image](https://github.com/user-attachments/assets/362df6ee-bf47-46ef-933d-92250dc93607)
 
+__"Что такое пустой интерфейс?"__
+
+![image](https://github.com/user-attachments/assets/cc134225-cebf-4d2b-9916-3210a6ccb5aa)
+
+__"Что такое nil интерфейс?"__
+
+![image](https://github.com/user-attachments/assets/07229d20-ad1c-483b-beba-5d1828444d4f)
+
+__"Как преобразовать интерфейс к другому типу?"__
+
+![image](https://github.com/user-attachments/assets/561967eb-333a-43c3-9a89-f3c5c425f6a8)
+
+__"Как определить тип интерфейса?"__
+
+![image](https://github.com/user-attachments/assets/d0e28bf2-4007-442e-a8e6-cb136203724e)
+
+## Инструкция defer
+
+__"Зачем используется ключевое слово defer в go?"__
+
+![image](https://github.com/user-attachments/assets/7ae01b3d-3a42-441c-82cf-31dfd1936199)
+
+__"Каков порядок возврата при использовании несколько функций с defer в рамках одной внешней функции?"__
+
+![image](https://github.com/user-attachments/assets/f65c1bf4-6572-49be-8944-0687dd199647)
+
+__"Как передаются значения в функции, перед которыми указано ключевое слово defer?"__
+
+![image](https://github.com/user-attachments/assets/0c9eb461-1ff7-4481-a1c9-582e44d5e284)
+
+
+## Конкурентность в Golang
+
+__"Что такое асинхронность?"__
+
+![image](https://github.com/user-attachments/assets/82dbe120-8553-4bac-a356-238b56bf2b7c)
+
+__"Что такое параллельность?"__
+
+![image](https://github.com/user-attachments/assets/62fa5be7-ad21-4436-bc4d-c1f2df502f88)
+
+__"Что такое конкурентность?"__
+
+![image](https://github.com/user-attachments/assets/f71bd3a9-d0d2-4115-b926-2c14c27344c3)
+
+__"Что такое thread?"__
+
+![image](https://github.com/user-attachments/assets/1f0a7ef6-47dc-4f75-b478-a125ba28bd5f)
+
+__"Что такое goroutine?"__
+
+![image](https://github.com/user-attachments/assets/eb5f11fd-dec1-4e76-a85b-5424d977618d)
+
+__"Какие основные отличия горутины от thread?"__
+
+![image](https://github.com/user-attachments/assets/a62f9d11-ff39-49fd-958d-b815034f0884)
+
+__"Каков минимальный и максимальный вес горутин?"__
+
+![image](https://github.com/user-attachments/assets/147dbfc0-9e39-4995-834e-30e51762047a)
+
+__"Что будет если размер горутины превысил допустимый максимум?"__
+
+![image](https://github.com/user-attachments/assets/6a1b0b78-8f0b-432a-afac-cd66736093e1)
+
+__"Какое максимальное количество горутин может быть запущено в системе?"__
+
+![image](https://github.com/user-attachments/assets/a20047bb-e50b-4e87-ac22-163f4bea0610)
+
+__"Что такое планировщик go?"__
+
+![image](https://github.com/user-attachments/assets/6d50e983-1474-4ed4-a15d-16306c87da1f)
+
+__"В равной ли степени горутины делят между собой процессорное время?"__
+
+![image](https://github.com/user-attachments/assets/5446a221-8ab6-4db3-8bde-c36a7d7ece9d)
+
+__"Какие есть способы остановить все горутины в приложении?"__
+
+![image](https://github.com/user-attachments/assets/088e9fad-3faf-47b9-bd51-75b031fd625c)
+
+__"Как вручную задать количество процессоров P для приложения?"__
+
+![image](https://github.com/user-attachments/assets/70be96ad-54a2-48bd-ac20-9aabc800f086)
+
+__"Как принудительно переключить контекст?"__
+
+![image](https://github.com/user-attachments/assets/165cf25c-d8d1-4bc8-89f9-a08c124309d2)
+
+__"Как наладить связь между горутинами?"__
+
+![image](https://github.com/user-attachments/assets/064d6dd4-db82-4d00-bde9-9be1068d685e)
+
+__"Какие есть примитивы синхронизации?"__
+
+![image](https://github.com/user-attachments/assets/d483c6bd-4810-49a5-a57f-b92b03efc2d6)
+
+__"Что такое wait group?"__
+
+![image](https://github.com/user-attachments/assets/416dce45-3499-48f1-98c4-4cf36792fc7b)
+
+__"Для чего используются mutex и какие бывают?"__
+
+![image](https://github.com/user-attachments/assets/22cb6016-e280-4f15-afcb-5ff30c272b8f)
+
+__"Для чего используется atomic?"__
+
+![image](https://github.com/user-attachments/assets/278385c4-ea8a-4885-a23e-9b61be5ff75e)
+
+__"Для чего используется sync map?"__
+
+![image](https://github.com/user-attachments/assets/4d706cfb-dde3-4cdc-a05f-7b4d122d9a2e)
+
+__"Что такое graceful shutdown?"__
+
+![image](https://github.com/user-attachments/assets/cca07006-bcbc-4cfe-a69f-4bf0128564e8)
+
+## Каналы в Golang
+
+__"Что такое channel?"__
+
+![image](https://github.com/user-attachments/assets/d01d1879-9de5-4611-8ddb-46261fbf7b00)
+
+__"Что такое буферизированный и небуферизированный channel?"__
+
+![image](https://github.com/user-attachments/assets/287acea4-ee3d-4f1e-ab38-aeb7967191e6)
+
+__"Какие действия можно произвести с каналом?"__
+
+![image](https://github.com/user-attachments/assets/ba20388f-537b-4f53-97ca-1e7e7f02d59a)
+
+__"Что будет если писать/читать в nil channel?"__
+
+![image](https://github.com/user-attachments/assets/c9b6fab0-6cfa-4349-b7ed-c50c8ebb66e4)
+
+__"Что будет если писать/читать в/из закрытый channel?"__
+
+![image](https://github.com/user-attachments/assets/752a283f-60c9-4c41-aefb-a481b39ad476)
+
+__"Что будет если писать/читать в/из буферизированный channel?"__
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
