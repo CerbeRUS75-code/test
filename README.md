@@ -462,7 +462,7 @@ __Чистая аритектура__
 ![image](https://github.com/user-attachments/assets/7a65bd9e-af31-464d-bdd5-ccc7cf9e4557)
 
 
-##Серверные вопросы
+## Серверные вопросы
 
 __Чем отличается unary от stream__?
 
