@@ -196,7 +196,7 @@ __"Как передаются значения в функции, перед к
 ![image](https://github.com/user-attachments/assets/0c9eb461-1ff7-4481-a1c9-582e44d5e284)
 
 
-## Конкурентность в Golang
+## Многопоточка в Golang
 
 __Как утроен runtime в Go?__
 
